@@ -1,0 +1,24 @@
+﻿Title,2D Beginner Game: Sprite Flight
+URL,https://learn.unity.com/course/2d-beginner-game-sprite-flight?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3
+By,Unity Technologies
+Use Unity Version,6.3
+Total Estimated Duration(HH:MM:SS),
+Summary,"In this course, you’ll build a 2D game in Unity — starting from a completely blank project with no assets provided, you’ll create the entire game from start to finish. In the game, you fly a simple triangle-shaped ship using mouse clicks (or screen taps on mobile). Your goal: stay alive for as long as you can by dodging flying obstacles while your score increases over time.Along the way, you’ll learn the fundamentals of working in 2D, from navigating the Scene view to coding simple gameplay interactions. You’ll also explore key Unity systems like a user interface (UI), particle effects, audio, and publishing. By the end, you’ll not only have a complete, playable game, but you’ll also have the skills to start building your own original 2D projects."
+
+Title,URL,Type,Duration(HH:MM:SS),Summary
+
+Set up your 2D game world,https://learn.unity.com/tutorial/682b709eedbc2a241a27639f?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:20:00,"In this tutorial, you'll preview the finished version of Sprite Flight: a simple, 2D arcade game where you steer a triangular ship to dodge flying obstacles. Then, you'll create a new Unity project using Unity’s 2D template and set up the basic play area for your 2D game, complete with walls around the edges of the screen."
+
+Make a flying obstacle prefab,https://learn.unity.com/tutorial/682b76b1edbc2a25400f2c6a?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:20:00,"In this tutorial, you’ll add physics to your obstacle so it falls, bounces, and interacts with the screen borders. Then, you’ll turn it into a prefab — a reusable template that lets you quickly create more obstacles later."
+
+"Random obstacle size, direction, and speed",https://learn.unity.com/tutorial/682c8affedbc2a00223dda33?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:45:00,"In this tutorial, you’ll write your first Unity script to control how each obstacle behaves. By assigning random properties — like size, direction, and speed — you’ll make your game world feel unpredictable and alive. Along the way, you’ll learn key C# scripting concepts, how to edit prefabs directly, and how to test and tune behaviors in real time."
+
+Steer the player,https://learn.unity.com/tutorial/682c9987edbc2a00b2368d3b?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:45:00,"In this tutorial, you’ll create a controllable player ship that turns to face your cursor and moves in that direction when you click the left mouse button. Along the way, you’ll learn how to detect input, convert mouse cursor position into world space, apply directional thrust, and respond to collisions — all using Unity’s physics and input systems."
+
+Add a scoring system,https://learn.unity.com/tutorial/682ca16cedbc2a01369ba7ca?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In many games, scoring helps provide feedback and motivation to players. In this tutorial, you'll add a basic scoring system to your game that tracks how long the player survives and displays their score on the screen using Unity's UI Toolkit system."
+
+Restart the game with a bang,https://learn.unity.com/tutorial/682ca75dedbc2a0109ef89e2?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll add a particle explosion that triggers when the player is destroyed, then use UI Toolkit to create a Restart button that reloads the scene — giving your game a clean and satisfying game-over flow."
+
+Optional bonus features,https://learn.unity.com/tutorial/682cabd0edbc2a018353f2d1?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,01:00:00,Take your project to the next level with optional bonus features.
+
+Build and publish to web,https://learn.unity.com/tutorial/682e13f5edbc2a0135e72d05?utm_campaign=072026_37f1754b-9b4a-55f7-86c2-14dc218ba316&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:20:00,Publish your game to Unity Play.

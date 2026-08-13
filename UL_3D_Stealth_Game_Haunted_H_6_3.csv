@@ -1,0 +1,28 @@
+﻿Title,3D Stealth Game: Haunted House
+URL,https://learn.unity.com/course/3d-stealth-game-haunted-house?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3
+By,Unity Technologies
+Use Unity Version,6.3
+Total Estimated Duration(HH:MM:SS),
+Summary,"Welcome to this revamped version of the beloved John Lemon game. We know how much this project means to many of you, so we made it even better! This time, John Lemon isn’t the only one sneaking through the shadows. Ivan von Vamp, a tiny vampire with a big personality, is also ready to embark on the adventure and escape the haunted mansion full of lurking enemies and chilling surprises.In this Unity project, you’ll create your own 3D Stealth Game from scratch. Starting with an empty scene, you’ll set up your player character and enemies, add audio, UI, and all the details that will bring this haunted house back to life.If you’re completely new to Unity or already have some experience, you can follow along with the Haunted House tutorials to learn the basics and dig deeper with bonus features.Ready to take a peek? Check out the demo on Unity Play , where you’ll guide John on their spooky escape, dodging stone-faced gargoyle monsters and floating ghosts.By the end, you’ll have your own version of the game, ready to share with your friends (or to haunt them with)."
+
+Title,URL,Type,Duration(HH:MM:SS),Summary
+
+Scene setup,https://learn.unity.com/tutorial/685155b8edbc2a371a139acb?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll create a Unity scene that includes your game’s level environment and player character."
+
+Set up Player movement,https://learn.unity.com/tutorial/68515e17edbc2a37586cac18?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll add a movement script and physics systems to your character, allowing it to respond to input and move within the game."
+
+Animate your Player character,https://learn.unity.com/tutorial/685161aeedbc2a377fe9aa80?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll add animations for walking and idle states to bring your player character to life."
+
+Set up your camera,https://learn.unity.com/tutorial/685170f2edbc2a37e927b669?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll set up the camera for your scene and apply post-processing effects to enhance the visual aesthetic."
+
+Create static enemies ,https://learn.unity.com/tutorial/6851779cedbc2a34510c638e?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:00:00,"In this tutorial, you’ll create static enemies that detect the player when they enter their line of sight."
+
+Create dynamic enemies ,https://learn.unity.com/tutorial/6851807cedbc2a38a128e877?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:00:00,"In this tutorial, you’ll create dynamic enemies that move through the level and also detect the player, making the gameplay more challenging."
+
+Ending the game,https://learn.unity.com/tutorial/68517fddedbc2a37991760a5?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll define the win and lose conditions for your game and set up UI elements to display when the game ends."
+
+Add audio to your game,https://learn.unity.com/tutorial/6941b1e40ee6cf905aae567a?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll add ambient sound, object-specific audio, and SFX to enhance the atmosphere and player experience."
+
+Bonus features ,https://learn.unity.com/tutorial/68517173edbc2a38148ad1f4?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll explore extra features you can add to take your game to the next level."
+
+Publish and share your game,https://learn.unity.com/tutorial/68516b7dedbc2a33f377fa53?utm_campaign=072026_ab5db762-087e-5f8b-b8d6-80bfb2d14596&utm_medium=LMS&utm_source=outline&version=6.3,Tutorial,00:30:00,"In this tutorial, you’ll build your game and publish it online so you can share it with friends and family."
