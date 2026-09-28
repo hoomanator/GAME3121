@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Waterfall_Material_Custom_Mat
-  m_Shader: {fileID: -6465566751694194690, guid: b4da11d1a900bcd4fad91344aea25602,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: b4da11d1a900bcd4fad91344aea25602, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
