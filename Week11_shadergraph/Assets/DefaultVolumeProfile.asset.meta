@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a71410b2964154441a628a38c0d77983
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.1
+  assetPath: Assets/DefaultVolumeProfile.asset
+  uploadId: 901268

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2be3e577296d14b55b57eccc58d30e7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372864
+  packageName: Get Started with Shader Graph | Complete Project
+  packageVersion: 1.1
+  assetPath: Assets/Settings/Build Profiles/webgl 1.asset
+  uploadId: 901268
