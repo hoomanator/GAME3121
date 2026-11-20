@@ -5,9 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_GetStartedWithShaderGraph/Scenes/Sample_Scene.unity
     guid: d861d2278509b44149b5ebdf181daa5e
+  - enabled: 1
+    path: Assets/_GetStartedWithShaderGraph/Scenes/Development_Scene.unity
+    guid: 4620a4425c2504d3da73274a0d15b224
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-  m_UseUCBPForAssetBundles: 0
