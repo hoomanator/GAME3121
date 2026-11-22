@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EquippableGlasses
   highlightCubePrefab: {fileID: 5462997184488694262, guid: c988efc15415a47549420c5a6a9a0ce8, type: 3}
-  RendererFeature: {fileID: 2429230725399877531, guid: f288ae1f4751b564a96ac7587541f7a2, type: 2}
+  RendererFeature: {fileID: 1063834495093829071, guid: f288ae1f4751b564a96ac7587541f7a2, type: 2}
   OnPutOnEvent:
     m_PersistentCalls:
       m_Calls:
